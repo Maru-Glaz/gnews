@@ -1,20 +1,30 @@
-a {
-  color: PeachPuff
-  font-size: 18 px
-}
-
 header {
-  background-color: Seashell
+  background-color: Moccasin
 }
 
 main {
-  background-color: Seashell
+  background-color: AntiqueWhite
 }
 
 footer {
-  background-color: MistyRose
+  background-color: Moccasin
 }
 
-p {
-  color: Bisque
+
+
+main p {
+  color: NavajoWhite
+}
+
+header p {
+  color: SandyBrown
+}
+
+footer p {
+  color: SandyBrown
+}
+
+a {
+  color: Peru
+  font-size: 18 px
 }
