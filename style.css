@@ -1,33 +1,33 @@
 header {
-  background-color: Moccasin
+  background-color: LightBlue
 }
 
 main {
-  background-color: AntiqueWhite
+  background-color: LightCyan
 }
 
 footer {
-  background-color: Moccasin
+  background-color: LightBlue
 }
 
 
 
 main p {
-  color: NavajoWhite
+  color: SkyBlue
 }
 
 header p {
-  color: SandyBrown
+  color: SteelBlue
 }
 
 footer p {
-  color: SandyBrown
+  color: SteelBlue
 }
 
 
 
 header a {
-  color: Peru
+  color: SkyBlue
   font-size: 18 px
 }
 
@@ -37,8 +37,8 @@ footer a {
 }
 
 main a {
-  background-color: SandyBrown
-  color: NavajoWhite
+  background-color: SteelBlue
+  color: LightBlue
   font-size: 18 px
   border: 1 px solid Peru
   border-radius: 9 px
@@ -49,15 +49,15 @@ main a {
 
 
 title {
-  color: SandyBrown
+  color: SteelBlue
 }
     
    
 
 h6 {
-  color: SandyBrown
+  color: SteelBlue
 }
 
 h5 {
-  color: SandyBrown
+  color: SteelBlue
 }
